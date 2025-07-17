@@ -1,5 +1,5 @@
-## Hi there, you found me!
-
+## Hi there - you found me! 👋
+![](https://komarev.com/ghpvc/?username=wandemedu&style=for-the-badge)
 
 ---
 
