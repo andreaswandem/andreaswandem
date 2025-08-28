@@ -3,7 +3,6 @@
 
 ---
 
-I'm a 22 year old student currently pursuing a Bachelor's degree in IT - Frontend and Mobile Development at Kristiania University of Applied Sciences in Oslo, Norway.
 Check out my academic work and self-learning projects at [andreaswandem-edu](https://github.com/andreaswandem-edu).
 
 ---
